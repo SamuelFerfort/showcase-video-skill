@@ -5,7 +5,7 @@ app showcases) entirely in code, with an original soundtrack. You approve one pl
 agent then builds, reviews and fixes the video on its own until it passes QA.
 
 ```bash
-npx skills add <owner>/showcase-video-skill
+npx skills add SamuelFerfort/showcase-video-skill
 ```
 
 Then ask your agent something like *"make a 60-second launch video for our app"*.
